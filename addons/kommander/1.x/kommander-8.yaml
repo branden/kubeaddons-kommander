@@ -41,7 +41,7 @@ spec:
   chartReference:
     chart: kommander
     repo: https://timaa2k.github.io/charts
-    version: 0.4.4
+    version: 0.4.8
     values: |
       ---
       ingress:
